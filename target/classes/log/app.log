@@ -1,0 +1,13 @@
+2018-04-04 13:26:42 INFO  [main]: Got city with name= new yorkand zone= 
+2018-04-04 13:26:42 INFO  [main]: Time in current city: 06:26and timezone: America/New_York
+2018-04-04 13:26:42 INFO  [main]: Message: Good morning, new york!
+2018-04-04 13:29:20 INFO  [main]: Got city with name= new york and zone= GMT
+2018-04-04 13:29:20 INFO  [main]: Time in current city: 10:29and timezone: GMT
+2018-04-04 13:29:20 INFO  [main]: Message: Good afternoon new york!
+2018-04-04 13:30:27 INFO  [main]: Got city with name= new york and zone= 
+2018-04-04 13:30:27 INFO  [main]: Time in the current city: 06:30 and timezone: America/New_York
+2018-04-04 13:30:27 INFO  [main]: Message: Good morning, new york!
+2018-04-04 13:51:24 INFO  [main]: Time in the current city: 10:51 and timezone: GMT
+2018-04-04 13:51:24 INFO  [main]: Message: Good afternoon Unknown!
+2018-04-04 13:51:24 INFO  [main]: Time in the current city: 06:51 and timezone: America/New_York
+2018-04-04 13:51:24 INFO  [main]: Message: Good morning, New York!
