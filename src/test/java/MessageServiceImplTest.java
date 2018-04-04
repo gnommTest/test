@@ -17,7 +17,6 @@ public class MessageServiceImplTest {
         System.out.println("Current Locale: " + Locale.getDefault());
         
        String message = messageServiceImpl.getMessage(city);
-//        Assert.assertEquals("Good night " + city.getName()+"!", message);
 
         System.out.println(message);
 
@@ -26,7 +25,6 @@ public class MessageServiceImplTest {
 
         String ruMessage = messageServiceImpl.getMessage(city);
         System.out.println(ruMessage);
-//        Assert.assertEquals("Доброй ночи " + city.getName()+"!", ruMessage);
 
     }
 
